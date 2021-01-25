@@ -1,0 +1,13 @@
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Forms.Login.resources
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Properties.Resources.resources
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.csproj.GenerateResource.cache
+C:\Users\Bartek\source\repos\Klient\bin\Debug\Klient.exe.config
+C:\Users\Bartek\source\repos\Klient\bin\Debug\Klient.exe
+C:\Users\Bartek\source\repos\Klient\bin\Debug\Klient.pdb
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.exe
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.pdb
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Forms.Calendar.resources
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.csprojAssemblyReference.cache
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Forms.CalendarEvents.resources
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Forms.AddEvent.resources
+C:\Users\Bartek\source\repos\Klient\obj\Debug\Klient.Forms.AddParticipant.resources
